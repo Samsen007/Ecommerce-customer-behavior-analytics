@@ -108,13 +108,13 @@ Page 1 — Executive Overview
 
 Summarizes customer counts, purchaser counts, customer segments, 24-hour cart outcomes, and observed purchase timing.
 
-Executive Overview
+![Executive Overview](./powerbi/Executive_Overview.png)
 
 Page 2 — Customer Intelligence
 
 Explores customer recency, behavioral segments, and engagement differences between purchasers and non-purchasers.
 
-Customer Intelligence
+![Customer Intelligence](./powerbi/Customer_Intelligence.png)
 
 ## Limitations
 
