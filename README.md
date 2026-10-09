@@ -31,9 +31,9 @@ The dataset contains event timestamps, client identifiers, product identifiers a
 
 ## Technology Stack
 
-- **SQL:** DuckDB for data extraction, transformation, aggregation and analytical modeling.
-- **Python:** Pandas, NumPy and Matplotlib for exploratory analysis and visualizations.
-- **Power BI:** Interactive dashboards, KPI cards and customer behavior reporting.
+- **SQL:** Data aggregation, joins, CTEs, window functions, and customer segmentation using DuckDB.
+- **Python:** Data quality checks, exploratory data analysis, Pandas, and visualizations.
+- **Power BI:** Interactive dashboards, KPIs, and customer-segment analysis.
 - **Data formats:** Parquet and CSV.
 
 ## Project Workflow
