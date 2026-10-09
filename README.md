@@ -108,9 +108,13 @@ Page 1 — Executive Overview
 
 Summarizes customer counts, purchaser counts, customer segments, 24-hour cart outcomes, and observed purchase timing.
 
+Executive Overview
+
 Page 2 — Customer Intelligence
 
 Explores customer recency, behavioral segments, and engagement differences between purchasers and non-purchasers.
+
+Customer Intelligence
 
 ## Limitations
 
