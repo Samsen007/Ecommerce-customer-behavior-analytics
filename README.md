@@ -102,6 +102,16 @@ Product-level and category-level analyses were used to identify differences in c
 
 These recommendations are hypotheses for further business investigation rather than proven explanations of customer behavior.
 
+## Power BI Dashboards
+
+Page 1 — Executive Overview
+
+Summarizes customer counts, purchaser counts, customer segments, 24-hour cart outcomes, and observed purchase timing.
+
+Page 2 — Customer Intelligence
+
+Explores customer recency, behavioral segments, and engagement differences between purchasers and non-purchasers.
+
 ## Limitations
 
 - The behavioral observation period is June–December 2022, not the current period.
